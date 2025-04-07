@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<iostream>
+struct rectangle
+{
+  int length;
+  int breadth;
+  int area; 
+}r;
+
+
+int main()
+{
+  r.(length,breadth)={10,5}
+  r.length=15;
+  r.breadth=10;
+  printf("Area of reactangle is %d",r.length*r.breadth);
+  
+}
