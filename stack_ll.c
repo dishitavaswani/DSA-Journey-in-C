@@ -1,1 +1,5 @@
-#I am a bitch
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{}
