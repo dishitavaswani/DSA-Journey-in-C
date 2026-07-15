@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0189-rotate-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -23,6 +24,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -41,5 +44,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
