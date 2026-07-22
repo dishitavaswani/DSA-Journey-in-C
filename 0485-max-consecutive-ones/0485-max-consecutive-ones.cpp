@@ -5,8 +5,7 @@ public:
         for(int i = 0; i < nums.size(); i++){
             if(nums[i] == 1){
                 count++;
-            }
-            if(nums[i] == 0){
+            }else{
                 count = 0;
             }
             maxlen = max(maxlen, count);
