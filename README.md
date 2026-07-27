@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
