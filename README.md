@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0485-max-consecutive-ones) |
@@ -60,4 +61,8 @@
 | [1004-max-consecutive-ones-iii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
