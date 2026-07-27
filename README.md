@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0283-move-zeroes) |
 ## Math
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
