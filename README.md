@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1248-count-number-of-nice-subarrays) |
@@ -73,4 +75,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
