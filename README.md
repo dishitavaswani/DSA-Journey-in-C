@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1248-count-number-of-nice-subarrays) |
@@ -41,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -67,6 +69,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/1248-count-number-of-nice-subarrays) |
