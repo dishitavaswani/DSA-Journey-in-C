@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0560-subarray-sum-equals-k) |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
