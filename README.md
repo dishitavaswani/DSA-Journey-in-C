@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0930-binary-subarrays-with-sum) |
@@ -94,6 +96,7 @@
 | [0015-3sum](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +124,8 @@
 | [0048-rotate-image](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0073-set-matrix-zeroes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/dishitavaswani/DSA-Journey-in-C/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
